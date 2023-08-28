@@ -1,0 +1,11 @@
+{
+  "name": "clifilemanager",
+  "version": "1.0.0",
+  "description": "a command line file management tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicary Mwamba",
+  "license": "ISC"
+}
